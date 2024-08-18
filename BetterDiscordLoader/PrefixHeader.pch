@@ -1,0 +1,16 @@
+//
+//  PrefixHeader.pch
+//  BetterDiscordLoader
+//
+//  Created by DF on 8/17/24.
+//
+//
+
+#ifndef BetterDiscordLoader_PrefixHeader_pch
+#define BetterDiscordLoader_PrefixHeader_pch
+
+#import <Cocoa/Cocoa.h>
+#import "ZKSwizzle.h"
+
+#endif
+
